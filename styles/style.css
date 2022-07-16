@@ -161,7 +161,6 @@
   flex-wrap: wrap;
   list-style: none;
   box-sizing: border-box;
-  padding: 0;
 }
 
 .table__cell{
@@ -348,12 +347,6 @@
   margin-bottom: 18px;
 }
 
-.logo_place_footer{
-  margin: 0;
-  background-image: url('../images/logo_place_footer.svg');
-  background-size: contain;
-  background-repeat: no-repeat;
-}
 .footer__column-link{
   line-height: 30px;
   font-size: 18px;
